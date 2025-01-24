@@ -23,7 +23,7 @@ I’m a cybersecurity professional and penetration tester with a background in *
   - SANS 560: Network Penetration Testing and Ethical Hacking
   - SANS 542: Web App Penetration Testing and Ethical Hacking
   - SANS 642: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation
-  <img src="Certificate_SANS642.png" alt="SANS642 Certificate" width="400">
+    <img src="Certificate_SANS642.png" alt="SANS642 Certificate" width="400">
 
 - **Penetration Testing**:
   - Web Application Penetration Testing
@@ -35,7 +35,7 @@ I’m a cybersecurity professional and penetration tester with a background in *
   - C
   - PLC Programming
   - PHP
-  <img src="Certificate_PHP.png" alt="PHP Certificate" width="400">
+    <img src="Certificate_PHP.png" alt="PHP Certificate" width="400">
 
 - **Operating Systems**:
   - Linux (Ubuntu, Kali)
