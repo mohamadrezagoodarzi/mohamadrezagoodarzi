@@ -33,7 +33,7 @@ I’m a cybersecurity professional and penetration tester with a background in *
   - Python
   - C
   - PLC Programming
-  - PHP ![Certifiacte](Certificate_PHP)
+  - PHP <img src="Certificate_PHP.png" alt="PHP Certificate" width="100">
 
 - **Operating Systems**:
   - Linux (Ubuntu, Kali)
