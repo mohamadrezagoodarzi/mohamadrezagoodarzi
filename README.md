@@ -7,10 +7,10 @@ I’m a cybersecurity professional and penetration tester with a background in *
   - **B.Sc. in Electrical Engineering**
   - **M.Sc. in Telecommunications Security & Cryptography**
 
-- 🌱 I’m currently enhancing my knowledge in advanced offensive security tactics and exploring [mention any current learning focus, e.g. "cloud security or malware analysis"].
+- 🌱 I’m currently enhancing my knowledge in advanced offensive security tactics and exploring 
 - 👯 I’m looking to collaborate on cybersecurity and penetration testing projects, or interesting open-source tools related to security.
 - 💬 Ask me about: Cybersecurity, ethical hacking, penetration testing, and scripting with Python.
-- 📫 How to reach me: You can reach me via email at [your email] or connect with me on [LinkedIn or other social media links].
+- 📫 How to reach me: You can reach me via email at damahoo@protonmsil.com .
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love working with industrial control systems (ICS) and have experience with PLCs!
 
